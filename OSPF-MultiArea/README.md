@@ -84,6 +84,7 @@ routing ospf network add network=175.15.5.0/30 area=area2
 
 Untuk melihat informasi OSPF instance gunakan perintah:
 *routing ospf instance print*
+
 ![print](image/2.png)
 
 # PC1
