@@ -1,6 +1,6 @@
 # OSPF Multi Area
 
-!(Arsitektur)[/image/1.png]
+![Arsitektur](/image/1.png)
 
 # R1
 ~~~bash
@@ -84,15 +84,15 @@ routing ospf network add network=175.15.5.0/30 area=area2
 
 Untuk melihat informasi OSPF instance gunakan perintah:
 *routing ospf instance print*
-!(print)[/image/2.png]
+![print](/image/2.png)
 
 # PC1
-!(PC1)[/image/3.png]
+![PC1](/image/3.png)
 
 # PC2
-!(PC1)[/image/4.png]
+![PC1](/image/4.png)
 
 ## Lakukan ping antar PC
 
 ## PC1 ke PC2
-!(PC1)[/image/5.png]
+![PC1](/image/5.png)
